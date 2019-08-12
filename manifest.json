@@ -8,7 +8,7 @@
     "app" : "XD",
     "minVersion" : "13.0"
   },
-  "description" : "Adds shortcut (Cmd+T) to switch between area/point text",
+  "description" : "This plugin Adds a shortcut: (Cmd+T), to switch between [area text] and [point text]. Use: 1. Choose text element 2. Press",
   "helpUrl" : "https://jose.run",
   "id" : "1b3a6be8",
   "icons" : [ {
